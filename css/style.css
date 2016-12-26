@@ -528,3 +528,33 @@ ul, li {
 .main-header .nav-list a:hover {
   color: #fff;
 }
+
+.s-services .icon {
+  background-image: url(../img/icons-sprite.png);
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.s-services .icon-pen {
+  width: 35px;
+  height: 35px;
+  background-position: 0 0;
+}
+
+.s-services .icon-tree {
+  width: 43px;
+  height: 35px;
+  background-position: -35px 0;
+}
+
+.s-services .icon-bulb {
+  width: 23px;
+  height: 36px;
+  background-position: -78px 0;
+}
+
+.s-services .icon-graph {
+  width: 42px;
+  height: 49px;
+  background-position: -101px 0;
+}
